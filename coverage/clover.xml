@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1698473651891" clover="3.2.0">
+  <project timestamp="1698473651892" name="All files">
+    <metrics statements="34" coveredstatements="26" conditionals="4" coveredconditionals="2" methods="15" coveredmethods="8" elements="53" coveredelements="36" complexity="0" loc="34" ncloc="34" packages="2" files="8" classes="8"/>
+    <package name="components">
+      <metrics statements="19" coveredstatements="16" conditionals="4" coveredconditionals="2" methods="8" coveredmethods="6"/>
+      <file name="Card.js" path="D:\Work\dev\namaste-react-js\projects\zomato\src\components\Card.js">
+        <metrics statements="8" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+      </file>
+      <file name="Grocery.js" path="D:\Work\dev\namaste-react-js\projects\zomato\src\components\Grocery.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+      </file>
+      <file name="Header.js" path="D:\Work\dev\namaste-react-js\projects\zomato\src\components\Header.js">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="13" count="9" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="30" count="1" type="cond" truecount="1" falsecount="1"/>
+      </file>
+      <file name="sum.js" path="D:\Work\dev\namaste-react-js\projects\zomato\src\components\sum.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="15" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="2"/>
+      <file name="UserContext.js" path="D:\Work\dev\namaste-react-js\projects\zomato\src\utils\UserContext.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="2" type="stmt"/>
+      </file>
+      <file name="appStore.js" path="D:\Work\dev\namaste-react-js\projects\zomato\src\utils\appStore.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="cartSlice.js" path="D:\Work\dev\namaste-react-js\projects\zomato\src\utils\cartSlice.js">
+        <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+      </file>
+      <file name="useOnlineStatus.js" path="D:\Work\dev\namaste-react-js\projects\zomato\src\utils\useOnlineStatus.js">
+        <metrics statements="8" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
