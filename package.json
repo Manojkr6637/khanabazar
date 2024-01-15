@@ -1,7 +1,6 @@
 {
   "name": "zomato",
-  "version": "1.0.0",
-  "homepage": "https://manojkr6637.github.io/khanabazar",
+  "version": "1.0.0", 
   "description": "",
   "scripts": {
     "predeploy": "npm run build",
